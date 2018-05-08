@@ -1,13 +1,16 @@
----?image=assets/image/jeremy-bishop.jpg
+---?image=assets/image/Money_Cash.jpg
 
 # How To Money
 
----?image=assets/image/kyle-gregory-devaras.jpg
+---?image=assets/image/Money_Cash.jpg
 
-## Tips!
+## Disclaimer
 
 <br>
 
+- I am not a qualified financial advisor |
+- I'm just a guy that read some stuff on the internet |
+- You probably shouldn't listen to me |
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
