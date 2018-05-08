@@ -4,11 +4,11 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : moon
+theme : black
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
-logo : assets/image/logo.png
+logo : none
 background : assets/image/octavian-rosca.jpg
 transition : none
 published : true
