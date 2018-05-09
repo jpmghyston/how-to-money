@@ -7,6 +7,7 @@
 ## Disclaimer
 
 - I am not a qualified financial advisor |
+- None of this is financial advice |
 - I'm just a guy that read some stuff on the internet |
 - You probably shouldn't listen to me |
 
@@ -23,7 +24,7 @@
 ## What I _will_ talk about
 
 - Benefits and downsides to different kinds of saving |
-- Stocks, mutual funds, index trackers |
+- Options: stocks, mutual funds, index trackers |
 - Aligning how you use your money with your priorities |
 
 ---
@@ -124,6 +125,7 @@ Note:
 Note:
 - Take infrequent expenses and put money aside consistently - e.g. Christmas, insurance, car insurance
 - No more lean months when your car breaks down - you've got money stashed away
+- Essentially breaking everything into a monthly payment
 ---
 ## 3. Roll with the punches
 Note:
