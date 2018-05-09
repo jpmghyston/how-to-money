@@ -30,7 +30,7 @@
 
 ## Who this is for
 
-Notes:
+Note:
 - We're all pretty lucky in that we've got relatively well paying jobs
 - and probably not crippling mountains of (non-student debt)
 - Paying down credit card debt is out of scope
@@ -41,7 +41,7 @@ Notes:
 
 - Get where you want to go faster
 
-Notes:
+Note:
 - You can probably go on with your life not worrying too much about how much money you have and being reasonably conservative with your spending
 - That's fine - but if you have goals like most people (travel, buying a house, weddings) more control can help you achieve your goals faster
 ---
@@ -57,12 +57,12 @@ Notes:
 - Cash ISAs probably aren't worth it
 - Check MoneySavingExpert for best current deals
 - In general (currently) will get lower return than inflation
-Notes:
+Note:
 - Cash ISAs generally have a lower interest rate, and you no longer pay tax on first £1000 of interest earned
 - This means at 2% interest rate, you'd need to have 50K cash in order to see benefit of ISA (and most ISAs have lower rates)
 - Help To Buy ISA - if you think you'll ever buy a house, get one & max it out
 - Sometimes you can get better rates in current accounts than savings accounts
-Notes:
+Note:
 - Help To Buy - you get the bonus as cash AFTER you buy your house, so it doesn't count towards your deposit
 - Will hopefully mean you don't pay lawyers' fees
 - If buying with another person, make sure you both get one (double bonus)
@@ -81,7 +81,7 @@ Notes:
   - _Much_ lower fees, probably gives about the same return
 - Bonds (and bond trackers)
 
-Notes:
+Note:
 - Only buy stocks if you _really_ know what you're doing - 
 - Warren Buffet bet - over 10 years, challenged someone to pick a set of mutual funds that would beat the S&P 500 (after accounting for fees) - won the bet
 - Managed funds generally charge 2-3% (whether your money goes up or down), while index trackers will be around 0.5%
@@ -90,5 +90,31 @@ Notes:
 # Budgeting
 ---
 ## What does budgeting mean?
-Notes:
-- You
+Note:
+- The money you earn is somewhat like a reflection of your value
+- The money you spend _should_ be the same - but often isn't
+- Ideally, you want to spend more money on the things you value most, and less on what you don't
+---
+## The two types of budgeting mistake
+1. Spending money which you shouldn't have
+2. Not spending money which you could have
+---
+## Possible strategies
+---
+## The multiple accounts strategy
+- Multiple bank accounts for multiple purposes - income, day-to-day spending, fun money, holiday
+- Benefit - more visibility and accountability
+- Downside - more hassle & admin
+---
+## The 'let's just hope' strategy
+- One bank account and working out in head
+- More likely to make budgeting mistakes
+---
+## YNAB
+- You Need A Budget
+- A method and a software package
+- Total view over what you can and can't spend
+- More time upfront & regular review, but gives you more confidence
+Note:
+- Show demo
+---
