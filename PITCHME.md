@@ -58,6 +58,7 @@ Note:
 - Cash ISAs probably aren't worth it |
 - Check MoneySavingExpert for best current deals |
 - In general (currently) will get lower return than inflation |
+
 Note:
 - Cash ISAs generally have a lower interest rate, and you no longer pay tax on first £1000 of interest earned
 - This means at 2% interest rate, you'd need to have 50K cash in order to see benefit of ISA (and most ISAs have lower rates)
