@@ -12,14 +12,45 @@
 
 ---?image=assets/image/kyle-gregory-devaras.jpg
 
-## Template Features
+## What I _won't_ talk about
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+- How you should spend your money
+- How much you should save
+- What you should invest in
+
+---
+
+## What I _will_ talk about
+
+- Benefits and downsides to different kinds of saving
+- Stocks, mutual funds, index trackers
+- Aligning how you use your money with your priorities
+
+---
+
+## Who this is for
+
+Notes:
+- We're all pretty lucky in that we've got relatively well paying jobs
+- and probably not crippling mountains of (non-student debt)
+- Paying down credit card debt is out of scope
+
+---
+
+## Why care about money?
+
+- Get where you want to go faster
+
+Notes:
+- You can probably go on with your life not worrying too much about how much money you have and being reasonably conservative with your spending
+- That's fine - but if you have goals like most people (travel, buying a house, weddings) more control can help you achieve your goals faster
+---
+
+## Investing
+
+- Your cash is burning
+- To stop it burning, you need to grow it
+- Unfortunately, there's no safe way to grow it
 
 ---?code=sample/go/server.go&lang=golang&title=Golang File
 
