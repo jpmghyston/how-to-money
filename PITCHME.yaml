@@ -8,8 +8,7 @@ theme : black
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
-logo : none
 background : assets/image/octavian-rosca.jpg
 transition : none
 published : true
-footnote : "GitPitch [ Space ] Presentation Template"
+footnote : none
