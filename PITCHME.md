@@ -57,6 +57,7 @@ Note:
 ## Cash accounts
 
 - Cash ISAs probably aren't worth it |
+- Except for Help To Buy |
 - Check MoneySavingExpert for best current deals |
 - In general (currently) will get lower return than inflation |
 
@@ -82,7 +83,6 @@ Note:
 - Index trackers |
   - _Much_ lower fees, probably gives about the same return |
 - Bonds (and bond trackers) |
-
 Note:
 - Only buy stocks if you _really_ know what you're doing 
 - Warren Buffet bet - over 10 years, challenged someone to pick a set of mutual funds that would beat the S&P 500 (after accounting for fees) - won the bet
