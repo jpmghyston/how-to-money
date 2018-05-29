@@ -65,7 +65,6 @@ Note:
 - This means at 2% interest rate, you'd need to have 50K cash in order to see benefit of ISA (and most ISAs have lower rates)
 - Help To Buy ISA - if you think you'll ever buy a house, get one & max it out
 - Sometimes you can get better rates in current accounts than savings accounts
-Note:
 - Help To Buy - you get the bonus as cash AFTER you buy your house, so it doesn't count towards your deposit
 - Will hopefully mean you don't pay lawyers' fees
 - If buying with another person, make sure you both get one (double bonus)
